@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eduardpop/Documents/elasticDiffieHelman/main.cpp
+iostream
+-
+math.h
+-
+string
+-
+stdlib.h
+-
+
